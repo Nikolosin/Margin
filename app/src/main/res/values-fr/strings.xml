@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">margin</string>
+    <string-array name="Locale">
+        <item>Russe</item>
+        <item>Anglais</item>
+        <item>Français</item>
+    </string-array>
+    <string-array name="margin">
+        <item>Petit</item>
+        <item>Moyenne</item>
+        <item>Grand</item>
+    </string-array>
+    <string name="hello">Bonjour</string>
+    <string name="by">Au revoir</string>
+    <string name="ok">Installer</string>
+</resources>
